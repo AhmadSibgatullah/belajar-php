@@ -11,7 +11,7 @@
 <body>
     <?php
     // tahap 1
-    echo "Belajar PHP"
+    echo "Belajar PHP";
 
     echo "\n";
 
