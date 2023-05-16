@@ -22,9 +22,9 @@
 
     //define const function global
     define("global", "Berisikan tentang value gloal function");
-    function smk()
+    function SMK()
     {
-       echo name; 
+       echo name;
     }
     ?>
 </body>
