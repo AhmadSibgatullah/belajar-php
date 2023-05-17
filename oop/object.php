@@ -15,6 +15,7 @@ class dealerCar
         echo "Tersedia pilihan tipe model.";
     }
 }
+
 $buy = new dealerCar();
 $buy->buyCar();
 echo "<br>";
@@ -23,3 +24,4 @@ echo "<br>";
 $buy->capacity = 2;
 echo "<br>";
 echo "Berhasil membeli" . $buy->nameCar . 'Dengan kapasitas' . $buy->capacity;
+
